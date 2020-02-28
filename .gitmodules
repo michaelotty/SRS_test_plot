@@ -1,0 +1,3 @@
+[submodule "SRS"]
+	path = SRS
+	url = git@github.com:michaelotty/SRS.git
